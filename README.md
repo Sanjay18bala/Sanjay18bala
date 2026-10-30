@@ -1,13 +1,10 @@
-# Hi, I'm Sanjay 👋
+## Sanjay
 
-I build developer tools and AI systems that turn scattered project data (GitHub, Slack) into answers people can trust, with sources.
+Software developer working on developer tools and applied AI.
 
-- 🏆 Nebius x NVIDIA Global AI Hackathon 2026: built **GitHelp**
-- 🛠️ Python · JavaScript/React · Postgres · RAG · LLM tooling · CLI tools
+**Projects**
 
-## Featured projects
+- [GitHelp](https://github.com/Sanjay18bala/Git-Help): GitHub and Slack project assistant with deadline tracking and source-cited answers. Built for the Nebius x NVIDIA Global AI Hackathon 2026.
+- [avd](https://github.com/Sanjay18bala/avd): Command-line tool for downloading video and audio, built on yt-dlp and ffmpeg.
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**GitHelp**](https://github.com/Sanjay18bala/Git-Help) | Read-only GitHub dashboard that tracks deadlines, asks owners in Slack why work is late, and answers with cited sources. | JavaScript, RAG, NVIDIA Nemotron |
-| [**avd**](https://github.com/Sanjay18bala/avd) | One-command CLI that downloads video/audio at the best quality from YouTube, TikTok, Instagram and 1000+ other sites. | Shell, PowerShell, yt-dlp, ffmpeg |
+**Skills:** Python, JavaScript, React, PostgreSQL
